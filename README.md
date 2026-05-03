@@ -1,11 +1,3 @@
-```asm
-section .lol
-    mov  rax, 0xDEADBEEF
-    mov  rbx, 0xBADF00D
-    xor  rcx, rcx          ; .l.
-    call pelar_balls
-```
-
 ---
 
 **Languages — in order of how close they sit to the hardware:**
@@ -45,6 +37,14 @@ I believe that understanding what happens **below** your abstraction layer makes
 If you think assembly is dead, I will politely disagree and show you why the compiler was wrong.
 
 ---
+
+```asm
+section .lol
+    mov  rax, 0xDEADBEEF
+    mov  rbx, 0xBADF00D
+    xor  rcx, rcx          ; .l.
+    call pelar_balls
+```
 
 <p align="center">
   <img src="https://img.shields.io/badge/Assembly-x86__64-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white"/>
