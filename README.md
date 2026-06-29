@@ -57,6 +57,3 @@ section .lol
   <img src="https://img.shields.io/badge/Ghidra-red?style=flat-square"/>
 </p>
 
-<p align="center">
-  <i>"The machine always tells the truth. The source code is just a hypothesis."</i>
-</p>
